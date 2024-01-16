@@ -1,0 +1,55 @@
+13:29:39.943 [main] INFO  Testcases.Tc_001_registeration - clicked on account completed
+13:29:40.450 [main] INFO  Testcases.Tc_001_registeration - clicked on register completed
+13:29:40.450 [main] INFO  Testcases.Tc_001_registeration - Entering customers details
+13:29:40.705 [main] INFO  Testcases.Tc_001_registeration - clicked on checkbox completed
+13:29:40.729 [main] INFO  Testcases.Tc_001_registeration - clicked on submit completed
+13:29:41.623 [main] INFO  Testcases.Tc_001_registeration - Test failed due to act_result and exp_result mismatch
+13:31:31.321 [main] INFO  Testcases.Tc_001_registeration - *****starting testcase no1*****
+13:31:31.324 [main] DEBUG Testcases.Tc_001_registeration - ***Starting testcase_no_1***
+13:31:31.403 [main] INFO  Testcases.Tc_001_registeration - clicked on account completed
+13:31:31.892 [main] INFO  Testcases.Tc_001_registeration - clicked on register completed
+13:31:31.892 [main] INFO  Testcases.Tc_001_registeration - Entering customers details
+13:31:32.161 [main] INFO  Testcases.Tc_001_registeration - clicked on checkbox completed
+13:31:32.181 [main] INFO  Testcases.Tc_001_registeration - clicked on submit completed
+13:31:33.128 [main] INFO  Testcases.Tc_001_registeration - Test failed due to act_result and exp_result mismatch
+13:31:49.399 [main] INFO  Testcases.Tc_001_registeration - *****starting testcase no1*****
+13:31:49.403 [main] DEBUG Testcases.Tc_001_registeration - ***Starting testcase_no_1***
+13:31:49.480 [main] INFO  Testcases.Tc_001_registeration - clicked on account completed
+13:31:49.949 [main] INFO  Testcases.Tc_001_registeration - clicked on register completed
+13:31:49.950 [main] INFO  Testcases.Tc_001_registeration - Entering customers details
+13:31:50.209 [main] INFO  Testcases.Tc_001_registeration - clicked on checkbox completed
+13:31:50.231 [main] INFO  Testcases.Tc_001_registeration - clicked on submit completed
+13:31:51.131 [main] INFO  Testcases.Tc_001_registeration - Test failed due to act_result and exp_result mismatch
+13:43:51.139 [main] INFO  Testcases.Tc_001_registeration - *****starting testcase no1*****
+13:43:51.145 [main] DEBUG Testcases.Tc_001_registeration - ***Starting testcase_no_1***
+13:43:51.233 [main] INFO  Testcases.Tc_001_registeration - clicked on account completed
+13:43:51.719 [main] INFO  Testcases.Tc_001_registeration - clicked on register completed
+13:43:51.719 [main] INFO  Testcases.Tc_001_registeration - Entering customers details
+13:43:51.993 [main] INFO  Testcases.Tc_001_registeration - clicked on checkbox completed
+13:43:52.013 [main] INFO  Testcases.Tc_001_registeration - clicked on submit completed
+13:43:53.019 [main] INFO  Testcases.Tc_001_registeration - Test failed due to act_result and exp_result mismatch
+13:55:16.258 [main] INFO  Testcases.Tc_001_registeration - *****starting testcase no1*****
+13:55:16.263 [main] DEBUG Testcases.Tc_001_registeration - ***Starting testcase_no_1***
+13:55:16.345 [main] INFO  Testcases.Tc_001_registeration - clicked on account completed
+13:55:16.825 [main] INFO  Testcases.Tc_001_registeration - clicked on register completed
+13:55:16.825 [main] INFO  Testcases.Tc_001_registeration - Entering customers details
+13:55:17.121 [main] INFO  Testcases.Tc_001_registeration - clicked on checkbox completed
+13:55:17.140 [main] INFO  Testcases.Tc_001_registeration - clicked on submit completed
+13:55:18.038 [main] INFO  Testcases.Tc_001_registeration - Test failed due to act_result and exp_result mismatch
+13:56:42.217 [main] INFO  Testcases.Tc_001_registeration - *****starting testcase no1*****
+13:56:42.223 [main] DEBUG Testcases.Tc_001_registeration - ***Starting testcase_no_1***
+13:56:42.307 [main] INFO  Testcases.Tc_001_registeration - clicked on account completed
+13:56:42.793 [main] INFO  Testcases.Tc_001_registeration - clicked on register completed
+13:56:42.794 [main] INFO  Testcases.Tc_001_registeration - Entering customers details
+13:56:43.045 [main] INFO  Testcases.Tc_001_registeration - clicked on checkbox completed
+13:56:43.071 [main] INFO  Testcases.Tc_001_registeration - clicked on submit completed
+13:56:43.961 [main] INFO  Testcases.Tc_001_registeration - Test failed due to act_result and exp_result mismatch
+13:58:56.340 [main] INFO  Testcases.Tc_001_registeration - *****starting testcase no1*****
+13:58:56.344 [main] DEBUG Testcases.Tc_001_registeration - ***Starting testcase_no_1***
+13:58:56.420 [main] INFO  Testcases.Tc_001_registeration - clicked on account completed
+13:58:56.890 [main] INFO  Testcases.Tc_001_registeration - clicked on register completed
+13:58:56.890 [main] INFO  Testcases.Tc_001_registeration - Entering customers details
+13:58:57.142 [main] INFO  Testcases.Tc_001_registeration - clicked on checkbox completed
+13:58:57.172 [main] INFO  Testcases.Tc_001_registeration - clicked on submit completed
+13:58:58.089 [main] INFO  Testcases.Tc_001_registeration - Test failed due to act_result and exp_result mismatch
+14:30:17.083 [main] INFO  Testcases.Tc_001_registeration - *****starting testcase no1*****
