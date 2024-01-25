@@ -19,7 +19,7 @@
 
 	public class ExcelUtility {
 
-		public FileInputStream fi;
+		public FileInputStream fi; 
 		public FileOutputStream fo;
 		public XSSFWorkbook workbook;
 		public XSSFSheet sheet;

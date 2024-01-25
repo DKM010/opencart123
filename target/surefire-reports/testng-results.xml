@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-01-16T16:45:12 IST" name="Suite" finished-at="2024-01-16T16:45:18 IST" duration-ms="6523">
+  <suite started-at="2024-01-16T17:58:21 IST" name="Suite" finished-at="2024-01-16T17:58:29 IST" duration-ms="8311">
     <groups>
       <group name="master">
         <method signature="Tc_003_login_dataprovider.login_dataprovider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Testcases.Tc_003_login_dataprovider@359f7cdf]" name="login_dataprovider" class="Testcases.Tc_003_login_dataprovider"/>
       </group> <!-- master -->
     </groups>
-    <test started-at="2024-01-16T16:45:12 IST" name="Test" finished-at="2024-01-16T16:45:18 IST" duration-ms="6523">
+    <test started-at="2024-01-16T17:58:21 IST" name="Test" finished-at="2024-01-16T17:58:29 IST" duration-ms="8311">
       <class name="Testcases.Tc_003_login_dataprovider">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:Testcases.Tc_003_login_dataprovider@359f7cdf]" started-at="2024-01-16T16:45:12 IST" name="setup" finished-at="2024-01-16T16:45:14 IST" duration-ms="2701" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:Testcases.Tc_003_login_dataprovider@359f7cdf]" started-at="2024-01-16T17:58:21 IST" name="setup" finished-at="2024-01-16T17:58:24 IST" duration-ms="3312" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="login_dataprovider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Testcases.Tc_003_login_dataprovider@359f7cdf]" started-at="2024-01-16T16:45:15 IST" name="login_dataprovider" data-provider="logindata" finished-at="2024-01-16T16:45:17 IST" duration-ms="1866" status="PASS">
+        <test-method signature="login_dataprovider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Testcases.Tc_003_login_dataprovider@359f7cdf]" started-at="2024-01-16T17:58:25 IST" name="login_dataprovider" data-provider="logindata" finished-at="2024-01-16T17:58:27 IST" duration-ms="2040" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -47,7 +47,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_dataprovider -->
-        <test-method signature="login_dataprovider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Testcases.Tc_003_login_dataprovider@359f7cdf]" started-at="2024-01-16T16:45:17 IST" name="login_dataprovider" data-provider="logindata" finished-at="2024-01-16T16:45:18 IST" duration-ms="777" status="PASS">
+        <test-method signature="login_dataprovider(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Testcases.Tc_003_login_dataprovider@359f7cdf]" started-at="2024-01-16T17:58:27 IST" name="login_dataprovider" data-provider="logindata" finished-at="2024-01-16T17:58:29 IST" duration-ms="1541" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -68,7 +68,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login_dataprovider -->
-        <test-method is-config="true" signature="exit()[pri:0, instance:Testcases.Tc_003_login_dataprovider@359f7cdf]" started-at="2024-01-16T16:45:18 IST" name="exit" finished-at="2024-01-16T16:45:18 IST" duration-ms="98" status="PASS">
+        <test-method is-config="true" signature="exit()[pri:0, instance:Testcases.Tc_003_login_dataprovider@359f7cdf]" started-at="2024-01-16T17:58:29 IST" name="exit" finished-at="2024-01-16T17:58:29 IST" duration-ms="109" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exit -->

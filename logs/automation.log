@@ -1,5 +1,9 @@
-16:45:15.860 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************Starting login using dataProvider*************
-16:45:17.724 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************finished login using dataProvider*************
-16:45:17.739 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************Starting login using dataProvider*************
-16:45:18.503 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************finished login using dataProvider*************
-16:45:18.509 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************Starting login using dataProvider*************
+12:32:35.638 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************Starting login using dataProvider*************
+12:32:37.615 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************finished login using dataProvider*************
+12:32:37.632 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************Starting login using dataProvider*************
+12:32:48.305 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************finished login using dataProvider*************
+12:32:48.315 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************Starting login using dataProvider*************
+12:32:59.091 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************finished login using dataProvider*************
+12:32:59.095 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************Starting login using dataProvider*************
+12:33:07.234 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************finished login using dataProvider*************
+12:33:07.243 [TestNG-test=Test-1] INFO  Testcases.Tc_003_login_dataprovider - *************Starting login using dataProvider*************

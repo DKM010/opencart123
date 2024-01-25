@@ -16,7 +16,7 @@
       <class name="Testcases.Tc_003_login_dataprovider">
         <methods>
           <include name="exit"/>
-          <include name="login_dataprovider"/>
+          <include name="login_dataprovider" invocation-numbers="0 4"/>
           <include name="setup"/>
         </methods>
       </class> <!-- Testcases.Tc_003_login_dataprovider -->
